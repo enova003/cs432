@@ -1,3 +1,4 @@
+Instructions:
 - create a new public repo in your account at GitHub.com
 - add two files that can contain anything you want
 - clone the repo locally (on your local machine)
