@@ -1,0 +1,8 @@
+- create a new public repo in your account at GitHub.com
+- add two files that can contain anything you want
+- clone the repo locally (on your local machine)
+- make and commit changes to one of the files in the repo locally
+- push the changes back to GitHub
+- open the repo in your web browser at GitHub.com
+- make and commit changes to the other file in the repo on GitHub.com
+- pull changes back to your local machine

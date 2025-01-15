@@ -1,2 +1,2 @@
 # cs432
-Repo for ODU's CS432 course.
+Repo for ODU's *CS432* course.
